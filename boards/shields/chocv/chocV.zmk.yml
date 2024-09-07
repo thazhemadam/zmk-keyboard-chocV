@@ -1,0 +1,8 @@
+file_format: "1"
+id: chocV
+name: chocV
+type: shield
+url: https://github.com/brickbots/chocV
+requires: [pro_micro]
+features:
+  - keys
