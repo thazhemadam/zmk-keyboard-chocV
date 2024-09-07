@@ -1,0 +1,4 @@
+name: chocV
+build:
+  settings:
+    board_root: .
